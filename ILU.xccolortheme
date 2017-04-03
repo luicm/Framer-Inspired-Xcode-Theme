@@ -81,21 +81,21 @@
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>0.519764 0.868821 0.991809 1</string>
+		<string>0.993974 0.718971 0.155933 1</string>
 		<key>xcode.syntax.character</key>
 		<string>0.386451 0.743672 0.377913 1</string>
 		<key>xcode.syntax.comment</key>
-		<string>0.390975 0.391025 0.390949 1</string>
+		<string>0.390893 0.390966 0.390874 1</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>0.701961 0.701961 0.701961 1</string>
+		<string>0.4 0.4 0.4 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>0.807843 0.831373 0.839216 1</string>
+		<string>0.263684 0.263734 0.263672 1</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>0.993974 0.718971 0.155933 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
 		<string>0.173782 0.557698 0.985892 1</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>1 1 1 1</string>
+		<string>0.993974 0.718971 0.155933 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
 		<string>1 1 1 1</string>
 		<key>xcode.syntax.identifier.function</key>
@@ -107,11 +107,11 @@
 		<key>xcode.syntax.identifier.macro.system</key>
 		<string>0.8 0.8 0.8 1</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>1 1 1 1</string>
+		<string>0.132544 0.670098 0.999028 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
 		<string>0.993974 0.718971 0.155933 1</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>1 1 1 1</string>
+		<string>0.441277 0.834436 0.997853 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
 		<string>0.519764 0.868821 0.991809 1</string>
 		<key>xcode.syntax.keyword</key>
@@ -119,7 +119,7 @@
 		<key>xcode.syntax.number</key>
 		<string>0.566632 0.440774 0.954099 1</string>
 		<key>xcode.syntax.plain</key>
-		<string>0.999886 1 0.99984 0.9</string>
+		<string>1 1 0.99984 0.9</string>
 		<key>xcode.syntax.preprocessor</key>
 		<string>0.993974 0.718971 0.155933 1</string>
 		<key>xcode.syntax.string</key>
